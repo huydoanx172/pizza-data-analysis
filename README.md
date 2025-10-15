@@ -1,4 +1,10 @@
 # 🍕 Pizza Sales Performance Analysis
+## 📈 Power BI Report
+
+[![Power BI Report Preview](./images/preview.png)](https://app.powerbi.com/view?r=eyJrIjoiMDMxMjg1ZWUtNDk5ZS00NmE0LWEwMzgtNDExYWEzODAwOGU5IiwidCI6IjY0YTdjYjQ5LTNkOTYtNDI1Yy05ZjM3LTY4MDNkZTk0OWE5NCJ9&pageName=22f80e8912ee537dea52)
+
+[🔗 View Interactive Report on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDMxMjg1ZWUtNDk5ZS00NmE0LWEwMzgtNDExYWEzODAwOGU5IiwidCI6IjY0YTdjYjQ5LTNkOTYtNDI1Yy05ZjM3LTY4MDNkZTk0OWE5NCJ9&pageName=22f80e8912ee537dea52)
+
 
 ## 📊 Overview
 
@@ -51,7 +57,7 @@ Insights derived from order data highlight **actionable strategies** to optimise
 
 #### Insights
 - Sales remain steady, **peaking on Fridays** and **dipping on Sundays**.  
-- The Friday spike, driven by **Classic Pizzas**, reflects customers seeking simple, familiar “end-of-week” options.  
+- The Friday spike, driven by **Classic Pizzas**, reflects customers seeking simple, familiar end-of-week options.  
 - Lower Sunday revenue suggests a shift toward **home-prepared meals**.
 
 #### Recommendations
@@ -69,8 +75,8 @@ Insights derived from order data highlight **actionable strategies** to optimise
 | Pizza Size | Revenue | Share of Total Sales | Key Insight |
 |-------------|----------|----------------------|--------------|
 | **Large**   | $375K    | 42%                  | Veggie pizzas dominate; strong interest in healthier options |
-| **Medium**  | $249K    | —                    | Opportunity for meal combos for single customers |
-| **Small**   | $178K    | —                    | Underperforming segment |
+| **Medium**  | $249K    | 31%                    | Opportunity for meal combos for single customers |
+| **Small**   | $178K    | 27%                    | Underperforming segment |
 | **XL/XXL**  | ~$1K     | <1%                  | Significant untapped opportunity |
 
 #### Recommendations
