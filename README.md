@@ -1,9 +1,9 @@
 # 🍕 Pizza Sales Performance Analysis
 ## 📈 Power BI Report
 
-[![Power BI Report Preview](./images/preview.png)](https://app.powerbi.com/view?r=eyJrIjoiMDMxMjg1ZWUtNDk5ZS00NmE0LWEwMzgtNDExYWEzODAwOGU5IiwidCI6IjY0YTdjYjQ5LTNkOTYtNDI1Yy05ZjM3LTY4MDNkZTk0OWE5NCJ9)
+[![Power BI Report Preview](./images/preview.png)](https://app.powerbi.com/view?r=eyJrIjoiMDMxMjg1ZWUtNDk5ZS00NmE0LWEwMzgtNDExYWEzODAwOGU5IiwidCI6IjY0YTdjYjQ5LTNkOTYtNDI1Yy05ZjM3LTY4MDNkZTk0OWE5NCJ9&pageName=22f80e8912ee537dea52)
 
-[🔗 View Interactive Report on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDMxMjg1ZWUtNDk5ZS00NmE0LWEwMzgtNDExYWEzODAwOGU5IiwidCI6IjY0YTdjYjQ5LTNkOTYtNDI1Yy05ZjM3LTY4MDNkZTk0OWE5NCJ9)
+[🔗 View Interactive Report on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDMxMjg1ZWUtNDk5ZS00NmE0LWEwMzgtNDExYWEzODAwOGU5IiwidCI6IjY0YTdjYjQ5LTNkOTYtNDI1Yy05ZjM3LTY4MDNkZTk0OWE5NCJ9&pageName=22f80e8912ee537dea52)
 
 
 ## 📊 Overview
