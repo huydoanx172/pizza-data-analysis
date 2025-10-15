@@ -137,5 +137,7 @@ By implementing the outlined recommendations, the business can:
 ### 📈 Author
 **Charlie Doan**  
 Data Analyst | Insights Generation | Products and Customers Behaviour Reporting
+
 📧 huydoan.work@gmail.com
-🌐 [linkedin.com](https://www.linkedin.com/in/charlie-doan/)
+
+🌐 [linkedin](https://www.linkedin.com/in/charlie-doan/)
